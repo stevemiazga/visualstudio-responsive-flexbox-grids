@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RWDColumnsFlexboxGrids", "RWDColumnsFlexboxGrids\RWDColumnsFlexboxGrids.csproj", "{5440E7DC-3308-4409-A77F-7972A2B2922B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwelveColumnGrid", "TwelveColumnGrid\TwelveColumnGrid.csproj", "{2343A952-60FD-4E2A-8BA7-83A0881F9B1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flexbox", "Flexbox\Flexbox.csproj", "{7A7EEC94-483E-4297-8DE0-481C362B8196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSSGrid", "CSSGrid\CSSGrid.csproj", "{9C87C977-3B6F-41F6-9826-56E27AE6607E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSSGrid2", "CSSGrid2\CSSGrid2.csproj", "{7FE2FE83-1BD5-4D47-97E0-7C5762533F80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSSGrid3", "CSSGrid3\CSSGrid3.csproj", "{2D348BF0-FDD3-47DE-8ADB-2EC1956FA0CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicPlayer", "MusicPlayer\MusicPlayer.csproj", "{4E8B74A0-DB00-44EF-80F8-C271976C4437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5440E7DC-3308-4409-A77F-7972A2B2922B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5440E7DC-3308-4409-A77F-7972A2B2922B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5440E7DC-3308-4409-A77F-7972A2B2922B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5440E7DC-3308-4409-A77F-7972A2B2922B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2343A952-60FD-4E2A-8BA7-83A0881F9B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2343A952-60FD-4E2A-8BA7-83A0881F9B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2343A952-60FD-4E2A-8BA7-83A0881F9B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2343A952-60FD-4E2A-8BA7-83A0881F9B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A7EEC94-483E-4297-8DE0-481C362B8196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7EEC94-483E-4297-8DE0-481C362B8196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7EEC94-483E-4297-8DE0-481C362B8196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7EEC94-483E-4297-8DE0-481C362B8196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C87C977-3B6F-41F6-9826-56E27AE6607E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C87C977-3B6F-41F6-9826-56E27AE6607E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C87C977-3B6F-41F6-9826-56E27AE6607E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C87C977-3B6F-41F6-9826-56E27AE6607E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE2FE83-1BD5-4D47-97E0-7C5762533F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE2FE83-1BD5-4D47-97E0-7C5762533F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE2FE83-1BD5-4D47-97E0-7C5762533F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE2FE83-1BD5-4D47-97E0-7C5762533F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D348BF0-FDD3-47DE-8ADB-2EC1956FA0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D348BF0-FDD3-47DE-8ADB-2EC1956FA0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D348BF0-FDD3-47DE-8ADB-2EC1956FA0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D348BF0-FDD3-47DE-8ADB-2EC1956FA0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E8B74A0-DB00-44EF-80F8-C271976C4437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8B74A0-DB00-44EF-80F8-C271976C4437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8B74A0-DB00-44EF-80F8-C271976C4437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8B74A0-DB00-44EF-80F8-C271976C4437}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D3D9EA7-58E3-48F9-8C36-66CA0C936390}
+	EndGlobalSection
+EndGlobal
